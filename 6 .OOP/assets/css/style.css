@@ -1,0 +1,45 @@
+/* #first{
+  width: 0;
+  height: 100%;
+  background-color: red;
+  transition: 1s;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+.active{
+  width: 200px !important;
+} */
+
+/* .buttons{
+  display: flex;
+  width: 50%;
+  margin: 2rem auto;
+  border: 1px solid purple;
+}
+
+
+.btn{
+  flex: 1;
+  padding: 10px 0;
+  cursor: pointer;
+  border: none;
+}
+
+
+.active{
+  background-color: #ff6600;
+  color: #fff;
+  font-weight: bold;
+} */
+
+#first{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: .5s;
+}
